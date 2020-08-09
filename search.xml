@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Welcome to Linfeng&#39;s blog</title>
+    <url>/2020/08/10/hello-world/</url>
+    <content><![CDATA[<h2 id="二级"><a href="#二级" class="headerlink" title="二级"></a>二级</h2><h3 id="三级"><a href="#三级" class="headerlink" title="三级"></a>三级</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">雨一直下</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://www.baidu.com/">Writing</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>python</title>
+    <url>/2020/08/10/python/</url>
+    <content><![CDATA[<h1 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h1><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h3 id="初识Python"><a href="#初识Python" class="headerlink" title="初识Python"></a>初识Python</h3><ul>
+<li>列表1<br>  a 字列表</li>
+<li>列表2</li>
+</ul>
+<hr>
+<p><a href="https://www.runoob.com/">菜鸟教程</a><br>![hello]<br><em>字体斜线</em></p>
+<a id="more"></a>
+<p><strong>加粗</strong><br><code>&lt;html&gt;&lt;/html&gt;</code></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;html&gt;</span><br><span class="line"></span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>我的内容是引用的</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+</search>
