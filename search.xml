@@ -40,7 +40,7 @@
 <p>不同的方法可能提供的 API 有些区别，但主要的都是一样的。如 vue resource 提供的七种 API：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">get(url, [options])</span><br><span class="line">post(url, [body], [options])</span><br><span class="line">head(url, [options])</span><br><span class="line">delete(url, [options])</span><br><span class="line">JSONP(url, [options])</span><br><span class="line">put(url, [body], [options])</span><br><span class="line">patch(url, [body], [options])</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <p>我们在日常开发中经常使用的就是 get 与 post 了，除此之外，还有 jsonp 也是经常使用的。使用这些方法的时候都有一个 option，这些 option 中的选项可能在平时使用过程中我们并没有过多的使用，但是大家一定要知道他们是做什么的，当你需要使用的时候才清楚。</p>
-<p>如：vue resource options 中各个参数的解析，请见下表。<br>！[images/456]<br>#前端交互常见问题<br>##1.跨域</p>
+<p>如：vue resource options 中各个参数的解析，请见下表。<br>！<a href="images/456">i</a><br>#前端交互常见问题<br>##1.跨域</p>
 <p>跨域可以说是每个项目中都会涉及的内容，对于前后端谁来处理跨域问题也没有争论的必要，作为一个前端，自己能解决跨域挺好的。</p>
 <p>关于跨域的解决方案，网上一搜能受到太多，但是很多方案其实都已经不是很适用了。日常可能就 JSONP 比较使用广大需求。而很多框架的交互里面也提供了 JSONP 的 API。</p>
 <p>下面举个 AJAX 的 JSONP 栗子：</p>
